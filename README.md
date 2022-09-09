@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cehv10Abhijeet
+- 👋 Hi, I’m @Abhijeet
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning btech computer science engineering
 - 💞️ I’m looking to collaborate on 
